@@ -1,0 +1,62 @@
+#+Author: Ryan Sharif
+#+TITLE: Harmony
+#+LaTeX_CLASS_OPTIONS: [letter,twoside,twocolumn]
+#+oPTIONS: toc:nil
+
+* Rhythm continued
+** Sinfonia, Bach No. 5, Allegro
+This is a compound meter example. This is an example of a duple song.
+
+** Ancient Airs and Dances
+
+*** First example
+This song has an example of a melody that occurs on the first and fourth
+beat. The bassoon plays the bass line of this song. 
+*** Second example
+The song has competing rhythms.
+
+** Every time you say goodbye, country music song
+Instrumental introduction followed by a verse. There's
+an extra beat at the first line of the chorus, followed
+by regularity once again.
+
+* Harmony
+** definitions
+/harmony/: simulataneous events in music; dimension of depth; combining
+of notes to produce chords, and successively, to produce chord progressions. \\
+
+/chord/: three of four notes sounded together, usually alternate notes of a scale.
+ Less than three notes is not a definitive harmony, it merely suggests a harmony.
+ Greater than four notes form complex harmonies, harmonies that can be broken up. \\
+
+/triad/: a three note chord \\
+
+/tetrad/: a four note chord \\
+
+/tonic/: the tonal center, along with the dominate forms the ... \\
+
+/sub-dominate/: \\
+
+/dominate/: \\
+
+/disonance/: sounds that create conflict; these chords are unstable. \\
+
+/consonance/: sounds that go well together; these chords are stable. \\
+
+/drone/: a bass chord that never changes; part of medieval western music. \\
+
+/block chords/: notes sounded together \\
+
+/argpeggiated chords/: harmony achieved by playing notes successively \\
+
+C-Major chord: 1 - 3 - 5
+
+Chords are built on stacked thirds and can have their own rhythm.
+** Pre-renaissance
+The concept of harmony was not really understood or studied before
+the renaissance. Harmony was thus an accident of melody. And the closer
+you get to the renaissance, the more composers were focusing on the
+vertical aspect of melodic interaction.
+** L'estro Harmonico
+We can usually tell when we have a chord change because the bass typically
+changes with the chord. This song had the 1-4-5-1.
