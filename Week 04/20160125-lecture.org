@@ -82,4 +82,25 @@
 
 * Texture
 
+** Definitions
+/texture/: the  interweaving of melody  and harmony; sound  aspects of
+musical  structure  vertically,  horizontally,   or  with  respect  to
+qualitative/quantitative  features of  tone  color, articulation,  and
+dynamic level; the fabric of music
+
+/monophony/: one sound, simply a melody
+
+/homophony/: same sounds, a harmonious melody
+
+/heterophony/:  different   sounds,  people  playing  the   same  song
+differently
+
+/polyphony/:
+
+/antiphony/: sounds that are against,  perhaps two choirs that operate
+independtly, but there is a dialogue
+
+/ostinato/: an instrument or group  of instruments that do their thing
+independent of what the rest of the music is doing
+
 * Definitions
