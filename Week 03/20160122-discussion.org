@@ -1,0 +1,31 @@
+#+TITLE: Week 3 Discussion: Harmony
+#+OPTIONS: toc:nil
+#+LaTeX_CLASS_OPTIONS: [letter,twoside,twocolumn]
+
+* Chant music
+** Hildegard von Bingen: O vis aeternatatis, 12^{th} Century 
+
+This chant has a drone and a simple melody, which begins with one
+singer and is harmonied by another singer singing the same melody.
+
+** Soprano, Alto, Tenor, Bass
+Soprano is a high female voice. An alto is similarly a female voice.
+For male voices, we have the higher tenor and lowest of all the bass.
+
+Using these four voice types, we can create textures in harmony.
+
+** Tomas Luis de Victoria
+Choir that sings the melody at times together and at other times
+moving apart.
+
+* Instruments
+** Adding in instruments: Antonio Vivaldi
+Vivaldi gives us strings in this piece: violin, viola, cello and
+double bass. This piece, /winter/, is taken from four seasons and
+is written in /minor mode/. His concertos, from the 17^{th} Century
+ have defined what everyone has done since then.
+** Instruments and voices: Johan Sebastian Bach, B minor Mass
+The song begins with voices, followed by the additions of
+oboe, flue, basson, and strings. The beginning is ``startling''.
+Following this introduction, there is a meandering that is slowly
+building tension.
