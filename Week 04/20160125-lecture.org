@@ -47,21 +47,37 @@
    change, but its pace is so slow that it acts like a drone.
 
 * Color, tempo, and dynamics
-  Like an  artist who paints  on his  canvas with different  colors, a
-  composer  adds qualitative  features.  We  recognize instruments  by
-  their articulation and timbre, i.e., its tone color. We make keys by
-  having scales. We talk about the  tonality of a scale by bringing in
-  the related  keys of a scale.   Thus, we can talk  about the C-major
-  scale, and talk about the C-major's tonality. When you play a note,
-  it contains other overtones in it.
+  
+** Defining color
+   Like an  artist who paints on  his canvas with different  colors, a
+   composer adds  qualitative features.   We recognize  instruments by
+   their articulation and  timbre, i.e., its tone color.  We make keys
+   by having scales. We talk about the tonality of a scale by bringing
+   in  the related  keys of  a  scale.  Thus,  we can  talk about  the
+   C-major scale, and talk about the C-major's tonality. When you play
+   a note, it contains other overtones in it.
+   
+   /qualitative features/: characteristics of the sound
+   
+   /tone color/: timbre (INST/VOC)
+   
+   /tonality/: key color, overtones, resonance
+   
+   /quantitative/: degree of expression
 
-  /qualitative features/: characteristics of the sound
-  
-  /tone color/: timbre (INST/VOC)
-  
-  /tonality/: key color, overtones, resonance
-  
-  /quantitative/: degree of expression
+** Igor Stravinsky's Le Sacre du printemps
+   The song begins with a strained basson. Stravinsky writes a piece
+   that pushes the instruments to their extremes.
+
+** Barcarolle 
+   The darker colors of the piano in this piece have a different effect
+   than the lighter colors of the piano. Professor Ruppert imagines 
+   Venice, where a boatman is rowing the boat is represented by the left
+   hand and he sings his love song with his right hand.
+
+** Lieutnant Kije suite
+   In this song, we are supposed to feel that we are in Russia, riding
+   inside a troika.
 
 
 * Texture
