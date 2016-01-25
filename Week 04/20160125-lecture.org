@@ -103,4 +103,14 @@ independtly, but there is a dialogue
 /ostinato/: an instrument or group  of instruments that do their thing
 independent of what the rest of the music is doing
 
+/homorhythm/: when all instruments are playing a single rhythm
+
+** Chant example
+   The song begins with several people singing one melody, hence, this
+   is considered /monophony/.
+
+** Pennylane
+   Since the voice is the most important part of this song, we have a
+   basic homophony.
+
 * Definitions
