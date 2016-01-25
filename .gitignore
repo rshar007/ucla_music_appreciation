@@ -1,0 +1,4 @@
+# We want to ignore PDF, TeX, and Emacs backup files
+*.*~
+*.pdf
+*.tex
