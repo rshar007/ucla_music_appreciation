@@ -1,0 +1,69 @@
+#+TITLE: Color, tempo, and dynamics
+#+LaTeX_CLASS_OPTIONS: [letter, twoside, twocolumn]
+#+OPTIONS: toc:nil
+
+* Continuing harmony
+
+** Yesterday: John Lennon
+   How do we characterize the harmony of this song? What is making the
+   harmony?  The song begins with  a guitar softly plucked, while John
+   Lennon sings a counter melody. The  bass is walking faster than the
+   guitar but it is only playing the notes that make up the chord that
+   the guitar is playing. Sustained strings are holding chords, making
+   it easier to follow when a chord is changed.
+
+** Day Tripper: The beatles
+   This songs starts  with a duet of guitars playing  the same melody.
+   A bass joins the song, but it  too is playing the same melody.  One
+   more guitar is added to the mix, followed by voices, which together
+   make a harmony.
+
+** We can work it out
+   This song begins with all instruments playing. What made the harmony
+   in this song was accordion, bass, and guitar.
+
+** Paperback writer
+   This song begins with four voices staggered and singing the chorus.
+   The key to the harmony in this song is the bass playing. It appears
+   soft in the background.
+
+** Verbum caro factum est
+   There are  at least  four voice types  singing this  song: soprano,
+   alto, tenor,  and bass. As  they sing  short snippets of  their own
+   parts of the songs, staggered in time, and as they sing each others
+   parts, a harmony is created.
+
+** Pachabels Canon in D Major
+   The way  that harmony  is created  in this song  is that  each bass
+   instrument  plays a  melody,  which is  followed  by another  voice
+   playing the  second part of  the melody, followed by  another voice
+   playing the third notes, all  playing a chord progression. on their
+   notes.
+
+** Little Martha
+   This song begins with a single guitar playing a melody. A bass line
+   joins the song, repeatedly playing the same note. This pattern of
+   bass playing is called a /drone based harmony/. The bass line does
+   change, but its pace is so slow that it acts like a drone.
+
+* Color, tempo, and dynamics
+  Like an  artist who paints  on his  canvas with different  colors, a
+  composer  adds qualitative  features.  We  recognize instruments  by
+  their articulation and timbre, i.e., its tone color. We make keys by
+  having scales. We talk about the  tonality of a scale by bringing in
+  the related  keys of a scale.   Thus, we can talk  about the C-major
+  scale, and talk about the C-major's tonality. When you play a note,
+  it contains other overtones in it.
+
+  /qualitative features/: characteristics of the sound
+  
+  /tone color/: timbre (INST/VOC)
+  
+  /tonality/: key color, overtones, resonance
+  
+  /quantitative/: degree of expression
+
+
+* Texture
+
+* Definitions
